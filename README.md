@@ -1,0 +1,2 @@
+# skipper
+Meu bot discord
